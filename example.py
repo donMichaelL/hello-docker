@@ -1,1 +1,2 @@
-# helloy
+#! /usr/bin/env python
+print 'hello'
