@@ -1,7 +1,7 @@
 import time
 import paho.mqtt.publish as publish
 
-print "That's one small step for man, one giant leap for mankind" 
+print "That's one small step for man, one giant leap for mankind!!!!" 
 # for i in range(0, 10):
 #         print i
 #         publish.single("airsoul", "%s This is a new Message" %(i), hostname="195.134.67.40",
