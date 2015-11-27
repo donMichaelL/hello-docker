@@ -1,7 +1,7 @@
 import time
 import paho.mqtt.publish as publish
 
-print "That's One Small Step For Man, One giant Leap for Mankind!!!!"
+print "That's One Small Step For Man, One giant Leap for Mankind"
 
 
 
